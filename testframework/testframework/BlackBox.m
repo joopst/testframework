@@ -15,4 +15,9 @@
     return @"Pandorra";
 }
 
+- (BOOL)isCheesed
+{
+    return NO;
+}
+
 @end
