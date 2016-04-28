@@ -15,7 +15,7 @@
     return @"Pandorra";
 }
 
-- (BOOL)isCheesed
+- (BOOL)testProperty
 {
     return NO;
 }
