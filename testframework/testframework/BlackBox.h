@@ -11,6 +11,6 @@
 @interface BlackBox : NSObject
 
 @property (nonatomic, readonly) NSString* owner;
-@property (nonatomic, readonly) BOOL  isCheesed;
+@property (nonatomic, readonly) BOOL  isProperty;
 
 @end
